@@ -1,0 +1,21 @@
+[submodule "lab-1-simplicity-exercise-westonmcevoy"]
+	path = lab-1-simplicity-exercise-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-1-simplicity-exercise-westonmcevoy.git
+[submodule "lab-1-common-baseline-westonmcevoy"]
+	path = lab-1-common-baseline-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-1-common-baseline-westonmcevoy.git
+[submodule "lab-3-introduction-to-micrium-os-westonmcevoy"]
+	path = lab-3-introduction-to-micrium-os-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-3-introduction-to-micrium-os-westonmcevoy.git
+[submodule "lab-4-scheduling-part-1-westonmcevoy"]
+	path = lab-4-scheduling-part-1-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-4-scheduling-part-1-westonmcevoy.git
+[submodule "lab-5-scheduling-part-2-westonmcevoy"]
+	path = lab-5-scheduling-part-2-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-5-scheduling-part-2-westonmcevoy.git
+[submodule "lab-6-ipc-westonmcevoy"]
+	path = lab-6-ipc-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-6-ipc-westonmcevoy.git
+[submodule "lab-7-shared-resources-westonmcevoy"]
+	path = lab-7-shared-resources-westonmcevoy
+	url = https://github.com/UniversityOfColoradoJonHaines/lab-7-shared-resources-westonmcevoy.git
